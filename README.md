@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PremaKathiresanVasagam
-- 👀 I’m interested in machine learning, deep learning, computer vision
+- 👀 I’m interested in machine learning, deep learning, computer vision, mlops
 - 🌱 I’m currently learning Sequence modeling using RNN.
 - 💞️ I’m looking to collaborate on NLP, computer vision projects and Time series problems.
 - 📫 Reach out to me: premavasagam@gmail.com
